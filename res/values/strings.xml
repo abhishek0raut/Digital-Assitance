@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> DigitalAssitance</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open">textBox</string>
+    <string name="loading">Loading</string>
+    <string name="address">Amravati</string>
+    <string name="humid">Humidity</string>
+    <string name="temp">Temprature</string>
+    <string name="pressure">Pressure</string>
+    <string name="desc">Description</string>
+</resources>

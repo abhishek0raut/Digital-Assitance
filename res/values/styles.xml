@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppTheme">
+    </style>
+    <style name="CardActionButton">
+        <item>16dp</item>
+        <item>3</item>
+        <item>800013</item>
+        <item>16dp</item>
+        <item>4dp</item>
+        <item>2</item>
+        <item>4dp</item>
+    </style>
+</resources>
